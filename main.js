@@ -7,7 +7,7 @@ function randomValueFromArray(array){
   return array[random];
 }
 
-let storyText = '朝８時、外は寒かった。 :insertx: 仕事に行く準備をする。 :inserty:これを週に１度はしている。:insertz:. 私は全然動じなかった。 :insertx: よくあることだ。;
+let storyText = '朝８時、外は寒かった。 :insertx: は、仕事に行く準備をする。 :inserty:これを週に１度はしている。:insertz:. 私は全然動じなかった。 :insertx: よくあることだ。;
 let insertX = ['お父さん','お母さん','お兄ちゃん'];
 let insertY = ['財布','携帯電話','眼鏡'];
 let insertZ = ['転んだ','走って戻った','気が付かずに駅に向かった'];
