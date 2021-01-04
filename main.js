@@ -28,7 +28,7 @@ function result() {
 
   if(customName.value !== '') {
     const name = customName.value;
-    newStory = newStory.replace('Bob',name);
+    newStory = newStory.replace('家族',name);
   }
 
   if(document.getElementById("日本").checked) {
